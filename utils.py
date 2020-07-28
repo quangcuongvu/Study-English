@@ -1,5 +1,6 @@
 import json
 import time
+start = time.time()
 # //3 days,7 days ..
 array_time_repeat=['3','7','14','21','30']
 
@@ -39,4 +40,6 @@ def ham_on_bai(word):
             break
         else:
             print('Repeat...')
-        
+    elapsed = (time.time() - start)/60
+    a=round(elapsed, 2)
+    print('Bạn đã học được Tiếng anh trong ',+ a, ' Phút')  

@@ -1,7 +1,8 @@
 import json
 import time
 import utils
-
+import time
+start = time.time()
 path_json_file='words.json'
 
 data=utils.ham_read_json(path_json_file)
@@ -25,3 +26,4 @@ for i in range(len(list_words)):
         data[current_deck]=list_words
         utils.ham_write_json(data,path_json_file)
 
+elapsed = time.time() - start
