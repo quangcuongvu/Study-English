@@ -24,10 +24,12 @@ def ham_read_json(path_json_file):
 
 def ham_on_bai(word):
     current_word=word['word']
+    current_ipa=word['ipa']
     current_tran=word['tran']
     current_sentence=word['sentence']
     print('------------New word----------')
     print(current_word)
+    print(current_ipa)
     print(current_tran)
     print(current_sentence)
     while True:
