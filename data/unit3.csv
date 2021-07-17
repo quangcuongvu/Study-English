@@ -1,0 +1,213 @@
+id,word ,tran 
+1,schedule,"(n): lịch trình, thời gian biểu"
+2,scheduled (a),được lên lịch
+3,I'll have to check the schedule.,Tôi sẽ phải kiểm tra lịch trình
+4,be scheduled to,được lên lịch để
+5,schedule/scheduling conflict, xung đột lịch trình 
+6,on schedule,đúng tiến độ
+7,behind schedule,chậm tiến độ
+8,process ,(v): xử lý
+9,processing (n),"(n): sự chế biến,   gia công "
+10,I processed his forms this morning,Tôi đã xử lý những mẫu đơn của anh ta sáng nay
+11,As part of the hiring process. ,Là một phần của quá trình tuyển dụng
+12,reception,"(n): sự tiếp đón, tiệc chiêu đãi"
+13,receptionist (n),"(n): lễ tân  
+(v): lên lịch, sắp xếp"
+14,How many people are coming to the reception tonight?,Tháng này hóa đơn sinh hoạt của chúng ta cao hơn nhiều
+15,A parade was scheduled to go through town,Một đoàn diễu hành được sắp xếp đi qua thị 
+16,reception desk,quầy tiếp tân 
+17,reception area,khu tiếp đón 
+18,consult ,"hỏi ý kiến, tham khảo"
+19, consultation (n),(n): sự tham khảo
+20,consultant,(n): cố vấn 
+21,reimburse  ,(v): hoàn trả 
+22, reimbursement,(n): sự hoàn trả 
+23, When will I be reimbursed for my travel expenses? ,Khi nào tôi sẽ được hoàn trả chi phí đi lại của mình?
+24,challenging,(a): (đầy) thách thức 
+25,challenge (n), (n): thử thách 
+26,This is the most challenging job I've ever had.  ,Đây là công việc thách thức nhất tôi từng có
+27,run out,"(phr.v): hết, cạn kiệt "
+28,We're going to run out of paper soon.,Chúng ta sắp sửa hết giấy rồi.
+29,run out of,hết cái gì đó 
+30, She's transferring to a new office.,Cô ấy sắp chuyển sang một văn phòng mới
+31,transfer,"(v): dời, chuyển sang (n): sự di dời, chuyển sang"
+32,relocate,"(v): dời, chuyển sang (n): sự di dời, chuyển sang"
+33,reassign,"(v): dời, chuyển sang (n): sự di dời, chuyển sang"
+34, invoice,(n): hóa đơn
+35,celebrate  ,"ăn mừng, làm tiệc"
+36,celebration (n),"(n): lễ kỷ niệm,   sự ăn mừng "
+37,Who's responsible for filing the invoices?,Ai chịu trách nhiệm sắp xếp những hóa đơn?
+38, Are you riding your bike to work today? ,Hôm nay bạn đi xe đạp tới chỗ làm à?
+39,Could you give me a ride to work tomorrow?,Bạn có thể cho tôi đi nhờ xe đến chỗ làm ngày mai chứ?
+40, ride,"(v): đi (xe đạp, xe máy), cưỡi (ngựa, ...) "
+41,lift ,"(v): đi (xe đạp, xe máy), cưỡi (ngựa, ...) "
+42,How should we celebrate Jennifer's retirement?,Chúng ta nên làm tiệc nghỉ hưu cho Jennifer như thế nào?
+43,give A a ride/lift,cho A đi nhờ xe 
+44,share a ride,đi chung xe
+45,label ,(v): dán nhãn 
+46,Are you going to label those file folders or should I?  ,"Bạn có định dán nhãn những cái bìa hồ sơ đó không hay  
+ để tôi làm?"
+47,Where can I get some shipping labels?  ,Tôi có thể lấy vài cái nhãn vận chuyển ở đâu?
+48,supervisor,người giám sát
+49,supervisory (a),giám sát
+50,supervision (n),sự giám sát
+51,supervise (v),"giám sát, quản lý"
+52,immediate supervisor,người giám sát trực tiếp
+53,supervisory position,vị trí giám sát
+54,manual  ,"(n): cẩm nang, sách hướng dẫn (a): thủ công, bằng tay  "
+55, manually,(adv): thủ công
+56,Please read this manual before tomorrow's   training session. ,Vui lòng đọc cuốn cẩm nang này trước buổi đào tạo   ngày mai.
+57,Who's the new supervisor at the factory?,Ai là người giám sát mới tại nhà máy ?
+58,sign,"(v): ký tên, ra dấu  "
+59,You should sign at the bottom. ,Bạn nên kí tên ở phía dưới
+60,What does the sign say?,Biển báo này nói gì vậy?
+61, Who's going to lead the tour?  ,Ai sẽ dẫn đường cho chuyến du lịch?
+62, lead  ,dẫn đến (+ to)
+63,leading (a),"dẫn đầu, quan trọng"
+64,leader (n),lãnh đạo 
+65,Which road leads to the park headquarters? ,Con đường nào dẫn đến trụ sở chính của công viên?
+66,monitor, (v): giám sát
+67,Who monitors the factory's safety standards? ,Ai giám sát tiêu chuẩn an toàn của nhà máy?
+68,Isn't this the monitor that breaks down every week?  ,Chẳng phải đây là cái màn hình bị hỏng hàng tuần sao?
+69," You haven't taken inventory yet, have you? ",Bạn vẫn chưa kiểm kê hàng tồn kho phải không?
+70, inventory  ,"hàng hóa, hàng tồn kho"
+71,stock  ,"hàng hóa, hàng tồn kho"
+72,take inventory,kiểm kê hàng tồn kho 
+73,inventory list,danh mục hàng tồn kho
+74, identification,(n): giấy chứng minh 
+75,identify,(v): nhận diện
+76,Maybe you need to show identification.,Có lẽ bạn nên xuất trình giấy chứng minh
+77,photo identification, ảnh nhận dạng 
+78,identification badge,phù hiệu nhận dạng 
+79,survey,"(n): cuộc khảo sát, điều tra (v): khảo sát, điều tra  "
+80,suggest,"(v): đề xuất, gợi ý "
+81,suggestion,(n): sự đề xuất 
+82,"Why don't you wait to see the survey results before  
+ making a decision?","Sao bạn không chờ để xem kết quả cuộc khảo sát trước  
+ khi đưa ra quyết định?"
+83,Have changes been suggested for the engine design? ,Có đề xuất thay đổi nào cho bản thiết kế động cơ không?
+84,go ahead,"(phr.v): tiếp tục, tiến triển "
+85,You should go ahead and do that.,Bạn nên tiếp tục làm điều đó
+86,belong to,"(phr.v): của, thuộc về "
+87,Who does this reference manual belong to?  ,Hướng dẫn tham khảo này của ai?
+88,make sure,"(phr): chắc chắn, đảm bảo "
+89,Please make sure to enter your hours on this form. ,Hãy chắc chắn nhập giờ giấc của bạn vào mẫu đơn này
+90,donate  ,"(v): tặng, quyên góp"
+91,donation (n),(n): khoản quyên góp
+92, donor (n),"người tặng, hiến"
+93,Where can I donate some old office equipment?,Tôi có thể quyên góp một số thiết bị văn phòng cũ ở đâu?
+94,make a donation,quyên góp 
+95, lower  ,"(v): hạ thấp, giảm xuống (giá cả)  "
+96,low,thấp
+97,raise,nâng lên
+98,The price was just lowered. ,Giá cả vừa được hạ thấp.
+99,branch ,(n): chi nhánh
+100, Why is Yoko transferring to the Allensville branch? , Why is Yoko transferring to the Allensville branch?
+101,branch office / local branch," văn phòng chi nhánh / chi nhánh  
+ địa phương"
+102,manage  ,"(v): giải quyết, xoay sở "
+103,management (n), sự quản lý 
+104,manager,người quản lý
+105,managerial , (thuộc) quản lý
+106,manageable ,có thể quản lý
+107,Who's managing the production line? ,Ai đang quản lý dây chuyền sản xuất?
+108,How did Jim manage to pay for the trip?  ,Làm thế nào Jim đã xoay sở chi trả cho chuyến đi?
+109,ask for,"(phr.v): xin, yêu cầu"
+110,Let's call the stockroom and ask for more supplies.  ,Chúng ta hãy gọi nhà kho để yêu cầu thêm vật tư.
+111,deliver  ,(v): giao hàng  
+112,delivery,(n): sự giao hàng
+113,make a delivery,(n): sự giao hàng
+114,"Will Mr. Lu pick his order, or should we deliver it?","Ông Lu sẽ tự lấy đơn hàng của mình, hay chúng ta nên   đi giao nó?"
+115,overnight delivery, giao hàng qua đêm 
+116,free delivery service,dịch vụ giao hàng miễn
+117,on delivery,khi giao hàng
+118,recommend ,"(v): giới thiệu, khuyên "
+119, recommendation,(n): sự giới   thiệu 
+120, Could you recommend any good restaurants in   the area?  ,Bạn có thể giới thiệu một số nhà hàng ngon ở khu này chứ?
+121,purchase  ,"(v): mua, sắm "
+122, Please put the receipt in the bag with my purchase. ,Vui lòng để hóa đơn vào trong túi với hàng tôi đã mua
+123,The tools were purchased at a discount.,Những dụng cụ này đã được mua giảm giá
+124,head ,"(v): hướng, đi về "
+125,I was just about to head home.  ,Tôi vừa mới chuẩn bị về nhà
+126,Who's the head of the Human Resources Department?,Ai là trưởng phòng nhân sự?
+127,know if,biết nếu
+128, weigh  ,"đo ( cân nặng, khối lượng)"
+129,weight,cân nặng
+130,Let me know if you're free to talk today. ,Hãy cho tôi biết nếu bạn rảnh để nói chuyện hôm nay
+131,lend ,"cho mượn, vay"
+132,borrow,"mượn, đi vay"
+133,Let me know if ,Hãy cho tôi biết nếu ...
+134,Do you know if ...?,Bạn có biết nếu ...?  
+135,Could you lend me the training video? ,Bạn có thể cho tôi mượn băng video tập huấn được không?
+136,Please weigh your bag carefully.  ,Vui lòng cân chiếc túi của bạn cẩn thận.
+137,accept ,chấp nhận
+138,acceptance,(n): sự chấp nhận 
+139, acceptable,(a): có thể chấp nhận
+140,"You accept submissions from freelance writers,   don't you? ",Bạn chấp nhận những bài viết được nộp từ các nhà văn   tự do phải không?
+141,accept the position,chấp nhận vị trí 
+142,accept credit cards,chấp nhận thẻ tín dụng 
+143,improve  ,"(v): cải thiện, cải tiến "
+144,improvement,(n): sự cải thiện 
+145, improved,(a): được cải thiện
+146,"The food in the cafeteria has improved a lot this year,   hasn't it?",Năm nay đồ ăn trong quán cà phê đã cải thiện nhiều   phải không?
+147,downtown,(adv): dưới phố (n): trung tâm thành phố  
+148,I know a great place downtown. ,Tôi biết một nơi tuyệt vời ở dưới phố
+149,require ,yêu cầu
+150,requirement,(n): (sự) yêu cầu 
+151,required,"bắt buộc, cần thiết"
+152,What else is required to complete the loan agreement?  ,Còn điều gì được yêu cầu để hoàn tất hợp đồng vay vốn?
+153, require A to, yêu cầu A làm ... 
+154, be required to,được yêu cầu làm ... 
+155,be required for,được yêu cầu cho
+156,renew  ,gia hạn
+157,renewal ,"n): sự đổi mới, gia hạn"
+158,renewable ,"(a): có thể đổi mới,  gia hạn "
+159,renew a subscription/license,gia hạn đăng kí/giấy phép
+160, Is it possible to renew my fishing license over the phone? ,Liệu tôi có thể gia hạn giấy phép đánh cá của mình qua   điện thoại chứ?
+161, travel," (v): đi (lại), du lịch (n): chuyến đi, du lịch  "
+162,Aren't you traveling to China at the end of this month? ,Chẳng phải anh sắp đi Trung Quốc cuối tháng này sao?
+163,no later than,"(phr): muộn nhất, không muộn hơn "
+164, at the latest  ,"(phr): muộn nhất, không muộn hơn "
+165, employee  ,nhân viên
+166,employ ,"(v): thuê, tuyển dụng"
+167,employer ,"n): chủ, nhà   tuyển dụng "
+168,No later than seven o'clock. ,Muộn nhất là bảy giờ.
+169,Seven o'clock at the latest. ,Muộn nhất là bảy giờ.
+170,We've added a lot of new employees lately. ,Chúng tôi đã tuyển nhiều nhân viên gần đây
+171,holiday,"(n): ngày, kỳ nghỉ "
+172,Aren't you supposed to be on holiday this week?,Đáng lẽ tuần này bạn phải đi nghỉ rồi chứ?
+173,national holiday,ngày lễ quốc gia
+174, holiday party, tiệc mừng lễ 
+175,on holiday,đi nghỉ 
+176,observe a holiday,cử hành một ngày lễ
+177,local ,địa phương
+178,locally,(adv): tại địa phương
+179,localized,nội địa hóa
+180,locality,(n): địa phương
+181,upstairs ,tầng trên
+182, downstairs,tầng dưới
+183, Would you like to join the local health club?,Bạn có muốn tham gia câu lạc bộ sức khỏe địa phương?
+184,locally produce,sản xuất tại địa phương 
+185,local business,doanh nghiệp địa phương 
+186,deserve ,(v): xứng đáng 
+187,deserved,(v): xứng đáng 
+188,Can I help you bring those boxes upstairs? ,Tôi có thể giúp bạn đem những chiếc hộp này lên lầu chứ?
+189,She deserves the recognition. ,Cô ấy xứng đáng được công nhận
+190,wonder ,"(v): tự hỏi, thắc mắc "
+191,"I wonder who will be hired as an assistant manager,  
+ don't you?  ","Tôi tự hỏi ai sẽ được thuê làm trợ lý giám đốc, có phải  
+ bạn không?"
+192, wonder about,thắc mắc về 
+193, wonder if, tự hỏi rằng
+194,mail  ,thư từ
+195,mailing,việc gửi thư
+196,e-mail,"(n,v): (gửi) thư điện tử "
+197,be supposed to ,được cho là
+198,suppose ,"cho là, nghĩ rằng"
+199, There's some mail for you. ,Có vài bức thư cho bạn.
+200,Aren't we supposed to have a meeting this afternoon?,Chẳng phải chúng ta được cho là sẽ có cuộc họp trưa   nay sao?
+201,I'll mail it in the morning.,Tôi sẽ gửi thư vào buổi sáng.
+202,express mail,thư chuyển phát nhanh 
+203,overnight mail,thư gửi qua đêm 
+204,outgoing mail,thư đi
+205,mailing list,danh sách gửi thư 

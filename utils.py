@@ -1,9 +1,13 @@
 import json
-import time
+from translate import Translator
+from googletrans import Translator
+from gtts import gTTS
+import playsound
+import time , subprocess,os
 start = time.time()
 # //3 days,7 days ..
-array_time_repeat=['3','7','14','21','30']
-
+array_time_repeat=['1','2','3','5','7','10','13']
+language = 'en'
 def get_next_time_practice(current_nb_repeat):
     current_time_stamp=int(time.time()) #(s)
     
@@ -25,21 +29,25 @@ def ham_read_json(path_json_file):
 
 def ham_on_bai(word):
     current_word=word['word']
-    current_ipa=word['ipa']
     current_tran=word['tran']
-    current_sentence=word['sentence']
-    print('------------New word----------')
     print(current_word)
-    print(current_ipa)
     print(current_tran)
-    print(current_sentence)
+    
     while True:
-        #print('---type again---')
+        myobj = gTTS(text=current_word, lang=language, slow=False)
+        myobj.save("1.mp3")
+        # subprocess.call(['xdg-open', '1.mp3'])
+        subprocess.Popen(['mpg123', '-q', '1.mp3']).wait()
         current_sentence_user=input()
-        if current_sentence_user.lower() == current_sentence.lower():
+
+        
+        if current_sentence_user.lower().strip()== current_word.lower().strip():
+            print('\n')
             break
         else:
             print('Repeat...')
     elapsed = (time.time() - start)/60
     a=round(elapsed, 2)
-    print('Bạn đã học được Tiếng anh trong ',+ a, ' Phút')  
+    print('Time: ',+ a, ' minute')  
+
+# ham_on_bai('printer(n)')

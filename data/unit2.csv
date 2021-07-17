@@ -1,0 +1,169 @@
+id,word ,tran 
+1,pile,"(v): chất đống, xếp chồng (n): chồng, đống"
+2,stack,"(v): chất đống, xếp chồng (n): chồng, đống"
+3,Dishes have been piled in a drying rack.,Những chiếc đĩa đã được xếp vào giá sấy khô
+4,Dishes have been stacked in a drying rack.,Những chiếc đĩa đã được xếp vào giá sấy khô
+5,a pile of wood,một đống gỗ 
+6,store (v),"(v): tích trữ, cất giữ"
+7,store (n)," (n): cửa hàng, đồ dự trữ "
+8,Some men are storing luggage above their seats. ,Vài người đàn ông đang cất hành lí phía trên chỗ ngồi
+9,pick up ,(phr.v): lấy lại 
+10,He's picking up his briefcase.  ,Anh ấy đang lấy lại cặp da của mình
+11, serve ,(v): phục vụ
+12,server (n),người phục vụ 
+13,Waiters are serving beverages to the customers.  ,Những anh bồi bàn đang phục vụ đồ uống cho thực khách.
+14,board,"(v): lên, đáp (tàu thuyền, máy bay, xe buýt)"
+15,Passengers are boarding a bus.  ,Hành khách đang lên xe buýt.
+16,Some boards have been piled on a deck.,Một số tấm ván đã được xếp chồng lên trên boong tàu.
+17,frame ,(v): dựng khung 
+18,frame (n)," (n): khung (ảnh, tranh, ...) "
+19,She's framing a piece of art. ,Cô ấy đang dựng khung một tác phẩm nghệ thuật.
+20,framed picture,tranh/ảnh được đóng khung
+21,picture frame, khung tranh/ảnh
+22,building frame,khung nhà
+23,relax  ,(v): nghỉ ngơi 
+24, rest ,(v): nghỉ ngơi 
+25,take a rest,(v): nghỉ ngơi 
+26,They're relaxing on the lawn. ,Họ đang nghỉ ngơi trên bãi cỏ
+27,roll ,"(v): quấn, cuộn "
+28,The carpet has been rolled up in the corner. ,Chiếc thảm đã được cuộn lại ở trong góc.
+29, A shopper is rolling a cart down a walkway.,Một người mua hàng đang lăn chiếc xe đẩy xuống lối đi bộ
+30,roll up a carpet,cuộn tròn tấm thảm
+31,roll up one's sleeves,xắn tay áo
+32,bow ,(v): cúi chào  
+33,greet ,(v): cúi chào  
+34,A performer is bowing before an audience,Một người biểu diễn đang cúi chào trước khán giả.
+35, clear, dọn dẹp 
+36,Tree branches are being cleared off a walkway.,Những cành cây đang được dọn khỏi lối đi bộ
+37,clear A of B,loại bỏ B khỏi A  
+38, clear B from,loại bỏ B khỏi A  
+39,off A,loại bỏ B khỏi A  
+40,display,trưng bày
+41, The shoes are displayed on a shelf. ,Những đôi giày được trưng bày trên một chiếc kệ.
+42,A sculpture is on display outside.,Một bức tượng điêu khắc được trưng bày bên ngoài
+43,extend,"kéo dài, mở rộng "
+44,A bridge extends towards a domed building.,Cây cầu kéo dài tới một tòa nhà mái vòm
+45,extended arms, đôi tay mở rộng
+46,cook ,(v): nấu ăn (n): đầu bếp
+47, Some vegetables are being cooked. ,Một số rau củ đang được nấu chín
+48,sip ,"uống từng ngụm, nhấp nháp "
+49,A woman is sipping a cup of coffee.  ,Người phụ nữ đang nhấp nháp một tách cà phê.
+50,work on," nỗ lực, cố gắng (cải thiện/đạt được gì đó) "
+51, He's working on the tire.,Anh ta đang nỗ lực sửa lốp xe.
+52, sweep , quét  
+53,One of the men is sweeping an outdoor area. ,Một người đàn ông đang quét dọn khu vực ngoài trời.
+54,lie , (v): nằm (ở đâu) 
+55,The bicycle is lying on the ground.  ,Chiếc xe đạp đang nằm trên mặt đất.
+56,She's lying on the sofa.  ,Cô ấy đang nằm trên ghế xô-pha.
+57, wrap ,"(v): gói, bọc "
+58, He's wrapping a book in paper.,Anh ta đang bọc một cuốn sách với giấy
+59,exercise , tập thể dục 
+60,Some people are exercising in a park. ,Một số người đang tập thể dục ở công viên
+61, border , (v): tiếp giáp (n): biên giới 
+62,A plaza is bordered by a fence.,Quảng trường tiếp giáp với một hàng rào.
+63,set up ,"
+(phr.v): dựng lên, thiết lập"
+64,install  ,"
+(phr.v): dựng lên, thiết lập"
+65, A man is setting up a podium. ,Một người đàn ông đang dựng bục.
+66, spread," (v): trải, căng ra"
+67,Towels have been spread out on the sand.  ,Những chiếc khăn tắm đã được trải ra trên bãi cát
+68,be spread out,được trải ra 
+69,wipe ,"(v): lau chùi, làm sạch "
+70,scrub ,"(v): lau chùi, làm sạch"
+71, He's wiping off a kitchen counter.   ,Anh ấy đang lau chùi kệ bếp.
+72,dine ,(v): ăn tối 
+73,dining (n), sự ăn tối
+74,diner (n),thực khách 
+75,They're dining at a restarant.,Họ đang ăn tối tại một nhà hàng.
+76,dining area,khu ăn uống 
+77,dining room,phòng ăn
+78,stock,"(v): cung cấp, tích trữ (hàng hóa) (n): hàng tồn kho"
+79,The office is stocked with supplies.,Văn phòng chứa đầy hàng hóa.
+80,stock the shelves:,chất hàng lên kệ 
+81,be stocked with,"chứa, chất đầy"
+82,fasten,"(v): buộc, thắt chặt "
+83, Equipment is being fastened to the roof of a car.  ,Trang bị đang được buộc chặt lên nóc chiếc xe hơi
+84,fasten their helmets,thắt chặt mũ bảo hiểm  
+85,exchange, (v): trao đổi (n): sự trao đổi  
+86, The men are exchanging business cards.  ,Những người đàn ông đang trao đổi danh thiếp cho nhau.
+87,exchange a greeting,chào hỏi lẫn nhau
+88,take notes,(phr): ghi chép 
+89,A woman is taking notes on a board.,Người phụ nữ đang ghi chép trên bảng.
+90,polish ,(v): đánh bóng  
+91, The silverware is being polished.  ,Bộ đồ dùng bằng bạc đang được đánh bóng.
+92, lift,"(v): nâng, nhấc lên "
+93, A machine is lifting bags onto a shelf.  ,Một cỗ máy đang nhấc những cái túi lên trên kệ.
+94, run ,"(v): chạy dài, quanh "
+95,A high wall runs alongside the train tracks.,Một bức tường cao chạy dọc theo đường ray xe lửa.
+96,A man is running up a ramp.  ,Một người đàn ông đang chạy lên đoạn dốc
+97,sort,"(v): sắp xếp, phân loại (n): thứ, loại, hạng "
+98,She's sorting out some papers.  ,Cô ấy đang phân loại một số giấy tờ
+99,sort through,lục tìm 
+100,be sorted into,được phân loại thành 
+101,The women are sewing some clothing. ,Những người phụ nữ đang may vài bộ quần áo
+102,sew,"(v): may, khâu "
+103,sewing,sự may vá
+104,sewing machine,máy may  
+105, put away ,"(phr.v): cất, dọn đi "
+106,Vendors are putting away their displays. ,Những người bán dạo đang dọn đi hàng trưng bày của họ
+107,spray," (v): xịt, phun (nước) (n): tia nước, bình xịt "
+108,The fountain is spraying water into the air. ,Đài phun nước đang bắn nước lên trên không.
+109,spray a car with water,xịt nước lên xe hơi
+110,a spray bottle,bình xịt 
+111,enter ,(v): nhập (dữ liệu) 
+112, A woman is entering numbers on a keypad. ,Một người phụ nữ đang nhập số liệu bằng bàn phím.
+113,A group of people is entering the room. ,Một nhóm người đang bước vào căn phòng.
+114,move  ,(v): di chuyển 
+115,carry,(v): di chuyển 
+116,transport,(v): di chuyển 
+117,they're moving a piece of furniture. ,Họ đang di chuyển một món đồ nội thất.
+118, check,(v): kiểm tra 
+119,The driver is checking the engine.,Người tài xế đang kiểm tra động cơ chiếc xe.
+120,The man and woman are checking their luggage. ,Người đàn ông và phụ nữ đang ký gửi hành lý của họ
+121,climb ,(v): leo (lên)
+122,go up,(v): leo (lên)
+123,walk up,(v): leo (lên)
+124,A man is climbing some stairs.  ,Người đàn ông đang leo lên vài bậc cầu thang.
+125,row  ,(v): chèo (thuyền) 
+126,paddle (v),(v): chèo (thuyền) 
+127, line (n) ,(v): chèo (thuyền) 
+128,The man is rowing a boat across the harbor.,Người đàn ông đang chèo thuyền qua bến cảng
+129,The chairs have been arranged in rows. ,Những chiếc ghế đã được xếp thành từng hàng.
+130,row/paddle a boat,chèo thuyền
+131, in a row / in rows, thành hàng
+132,exit  ,"(v): rời khỏi, ra về (n): lối ra  "
+133,leave ,"(v): rời khỏi, ra về (n): lối ra  "
+134, A car is exiting a parking garage.,Một chiếc xe hơi đang rời khỏi bãi đỗ xe.
+135,mount,"(v): đóng, gắn vào "
+136,Some paintings have been mounted on the wall. ,Một vài bức tranh đã được đóng lên trên tường.
+137,be seated ,(phr): ngồi
+138,seat (v),(v): sắp xếp chỗ ngồi 
+139, seat (n),"(n): ghế, chỗ ngồi "
+140, Some diners are seated across from each other. ,Một số thực khách đang ngồi đối diện nhau
+141,dock,"(v): neo, đậu (tàu, thuyền) "
+142,Some boats are docked at a pier. ,Vài chiếc thuyền đang đậu ở bến tàu
+143,A man is fishing from a dock.,Một người đàn ông đang câu cá từ bến tàu
+144,put up ," xây, dựng "
+145,A man is putting up a tent.  ,Người đàn ông đang dựng một chiếc lều
+146, The man is putting up a sign.  ,Người đàn ông đang dựng một biển báo
+147,cast ,"(v): tạo, trải ra (ánh sáng, bóng mát, ...)  "
+148,Some trees are casting shadows on a path.,Vài cái cây trải bóng trên đường
+149,fall ,"(v): lộn nhào, lật đổ "
+150,A stool has fallen over on the ground.,Một chiếc ghế đẩu đã bị lật đổ xuống đất
+151,A tablecloth has fallen on the floor. ,Một tấm khăn trải bàn đã rơi xuống sàn
+152,post,đăng
+153, poster (n),(n): áp phích (quảng cáo)
+154,put up ,(n): áp phích (quảng cáo)
+155,take off  ,cất cánh
+156,remove ,cất cánh
+157,land,hạ cánh
+158,touch down,hạ cánh
+159,One of the men is taking off his jacket.,Một người đàn ông đang cởi bỏ áo khoác của mình
+160,An aircraft is taking off from a runway.,Một chiếc máy bay đang cất cánh khỏi đường băng
+161,outdoors  ,(adv): ngoài trời 
+162,outside,ngoài trời
+163,indoors,bên trong
+164,Signs are being posted at an intersection.,Những biển báo đang được dựng tại ngã tư.
+165,Tables and chairs are set up outdoors.,Bàn ghế được dựng ngoài trời
+166,post/put up a notice,đăng thông báo
