@@ -16,8 +16,8 @@ list_words = data[current_deck]
 print("=== Better than yesterday ===")
 for i in range(len(list_words)):
     word = list_words[i]
-    print("\nMời bạn nhập từ mới 😍: ")
     if int(word["next_time"]) < current_time_stamp:
+        print("\nMời bạn nhập từ mới 😍: ")
         utils.ham_on_bai(word)
         current_nb_repeat = int(word["nb_repeat"])
         list_words[i]["nb_repeat"] = current_nb_repeat + 1
