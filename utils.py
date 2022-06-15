@@ -37,14 +37,17 @@ def ham_read_json(path_json_file):
 def ham_on_bai(word):
     current_word = word["word"]
     current_word = current_word.replace("  ", " ")
+    current_word = current_word.lower().strip()
     current_tran = word["tran"]
     print(current_word)
     print(current_tran)
 
     while True:
         current_sentence_user = input()
+        current_sentence_user = current_sentence_user.lower().strip()
+        current_sentence_user = current_sentence_user.replace("  ", " ")
 
-        if current_sentence_user.lower().strip() == current_word.lower().strip():
+        if current_sentence_user == current_word:
             print("\n")
             break
         else:
