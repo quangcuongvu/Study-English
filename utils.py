@@ -36,6 +36,7 @@ def ham_read_json(path_json_file):
 
 def ham_on_bai(word):
     current_word = word["word"]
+    current_word = current_word.replace("  ", " ")
     current_tran = word["tran"]
     print(current_word)
     print(current_tran)
